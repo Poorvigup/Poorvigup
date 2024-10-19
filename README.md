@@ -13,12 +13,12 @@ Here are some of the technologies and tools I've been working with:<br>
 ## 📚 Projects
 Here are some of the projects I’ve worked on:
 
-**To-Do Application**
+**To-Do Application**<br><br>
 Description: a sleek and intuitive To-Do Application built with Flutter! 📝 This project demonstrates my skills in building cross-platform mobile apps and features a simple, user-friendly interface designed to help users stay organized and productive.
 <br>Tech Stack: Flutter/Dart
 <br>Link: [Provide link to GitHub repo or live project]
 
-**E-Commerce application**
+**E-Commerce application**<br><br>
 Description: This project provides a sleek and responsive user interface for a mobile e-commerce application. This app includes a product catalog, detailed product views, a cart functionality, and authentication screens, such as Sign In and Sign Up pages. It's a fantastic template for getting started with a shopping app! While this project does not include backend integration, it's fully functional from a UI perspective.
 <br>Tech Stack: [Tools, languages, or frameworks used]
 <br>Link: [Provide link to GitHub repo or live project]
