@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Poorvi Gupta
 🎓 Engineering Student | computer science major<br>
-🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.<br><img src="![WhatsApp Image 2024-01-13 at 13 31 29_cae8d599](https://github.com/user-attachments/assets/a931bbda-bf5f-4f6d-920f-469cbda20abb)"
- width="250" alt="Home Screen">
+🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.<br>
 
 ## 🌟 About Me
 I am a third year engineering student at Government Women's Engineering College,Ajmer, specializing in Computer Science. My interests lie in programming and solving problems. I am always looking for opportunities to apply what I learn in the classroom to real-world projects, collaborating with peers, and expanding my knowledge.<br>
