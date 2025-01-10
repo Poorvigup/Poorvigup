@@ -22,6 +22,10 @@ Description: a sleek and intuitive To-Do Application built with Flutter! 📝 Th
 Description: This project provides a sleek and responsive user interface for a mobile e-commerce application. This app includes a product catalog, detailed product views, a cart functionality, and authentication screens, such as Sign In and Sign Up pages. It's a fantastic template for getting started with a shopping app! While this project does not include backend integration, it's fully functional from a UI perspective.
 <br>Link: https://github.com/Poorvigup/E-Commerce_Application
 
+**Tik-Tak Game**<br><br>
+Description: This project is a simple yet interactive Tic-Tac-Toe game, also known as "noughts and crosses" or "X's and O's," where two players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. This classic game is built with a clean UI, smooth animations, and engaging game logic to provide a fun and enjoyable experience.
+<br>Link: 
+
 ## 🌐 Connect with Me
 **📧 Email:** poorviguptacom@gmail.com<br>
 **💼 LinkedIn:** www.linkedin.com/in/poorvi-gupta-a817032a0
