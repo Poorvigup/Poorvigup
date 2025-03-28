@@ -42,7 +42,7 @@ Here are some of the technologies and tools I've been working with:
 MargNiti is a **career guidance** and **skill development** platform designed to help users explore and master skills in high-demand domains like **Coding** 💻 and **Data Science** 📊.  
 The platform provides **structured roadmaps**, **hands-on learning resources**, and **progress tracking** to empower users to make informed career decisions.  
 
-🔗 **GitHub Repo:** [MargNiti](https://github.com/palaksharma1432/MargNiti)  
+🔗 **GitHub Repo:** [MargNiti](https://github.com/Poorvigup/MargNiti)  
 🔗 **Live Demo:** [MargNiti Website](https://palaksharma1432.github.io/MargNiti/signin.html)  
 
 ---
