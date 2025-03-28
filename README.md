@@ -58,7 +58,7 @@ The hidden message can only be retrieved with the correct **passcode**, ensuring
 ✔️ **Lightweight & Fast** – Works efficiently with OpenCV.  
 ✔️ **Cross-Platform Compatibility** – Runs on Windows, Linux, and macOS.  
 
-🔗 **GitHub Repo:** [Steganography Project](https://github.com/Poorvigup/Steganography)  
+🔗 **GitHub Repo:** [Steganography Project](https://github.com/Poorvigup/stegno_project)  
 
 ---
 
