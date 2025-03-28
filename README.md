@@ -1,41 +1,113 @@
-# 👋 Hello, I'm Poorvi Gupta
-🎓 Engineering Student | computer science major<br>
-🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.<br>
+# 👋 Hello, I'm Poorvi Gupta  
 
-## 🌟 About Me
-I am a third year engineering student at Government Women's Engineering College,Ajmer, specializing in Computer Science. My interests lie in programming and solving problems. I am always looking for opportunities to apply what I learn in the classroom to real-world projects, collaborating with peers, and expanding my knowledge.<br>
-🛠️ Building projects using: Flutter/Dart and python.
-## 🛠️ Skills
-Here are some of the technologies and tools I've been working with:<br>
+🎓 **Engineering Student | Computer Science Major**  
+🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.  
 
-**Languages:** Python, C++, Dart, etc.
+---
 
-## 📚 Projects
-Here are some of the projects I’ve worked on:
+## 🌟 About Me  
+I am a **third-year Computer Science Engineering (CSE) student at Government Women's Engineering College, Ajmer (GWEC, Ajmer)**. I have a keen interest in **programming, software development, and data analytics**. I actively participate in hackathons, coding competitions, and technical challenges to apply my knowledge to real-world scenarios.  
 
-**To-Do Application**<br><br>
-Description: a sleek and intuitive To-Do Application built with Flutter! 📝 This project demonstrates my skills in building cross-platform mobile apps and features a simple, user-friendly interface designed to help users stay organized and productive.
-<br>Tech Stack: Flutter/Dart
-<br>Link: https://github.com/Poorvigup/To-Do_App
+I am also a **proud member of Team SheCode**, where I collaborate with my teammates on **hackathons, tech projects, and innovation challenges**. 🚀  
 
-**E-Commerce application**<br><br>
-Description: This project provides a sleek and responsive user interface for a mobile e-commerce application. This app includes a product catalog, detailed product views, a cart functionality, and authentication screens, such as Sign In and Sign Up pages. It's a fantastic template for getting started with a shopping app! While this project does not include backend integration, it's fully functional from a UI perspective.
-<br>Link: https://github.com/Poorvigup/E-Commerce_Application
+---
 
-**Tik-Tak Game**<br><br>
-Description: This project is a simple yet interactive Tic-Tac-Toe game, also known as "noughts and crosses" or "X's and O's," where two players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. This classic game is built with a clean UI, smooth animations, and engaging game logic to provide a fun and enjoyable experience.
-<br>Link: https://github.com/Poorvigup/tiktak_game
+## 🛠️ Tech Stack & Skills  
+Here are some of the technologies and tools I've been working with:  
 
-**IPL 2018 Player Selection and Analysis Project**<br><br>
-Description: The IPL Player Selection and Analysis project! As a data analyst hired by a sports management company, my goal was to help form a winning team for the IPL 2018 Season. Using data-driven insights, I recommend the best-performing players for various positions to maximize the team's chances of winning matches.
-<br>Link: https://github.com/Poorvigup/IPL_team
+### **Languages:**  
+- Python 🐍  
+- C++ 💻  
+- Dart 🚀  
+- SQL 📊  
 
-**IPL 2018 Player Selection and Analysis Project**<br><br>
-Description: This project involves analyzing temperature variations (in Celsius) from November to February, based on daily data provided for the city of Jaipur. I used NumPy for efficient data handling and performing a variety of data analysis tasks.
-<br>Link: https://github.com/Poorvigup/temperature-sheet
+### **Frameworks & Tools:**  
+- Flutter 📱  
+- Firebase 🔥  
+- NumPy & Pandas 📈  
+- OpenCV 👀  
+- Git & GitHub 🖥️  
 
-## 🌐 Connect with Me
-**📧 Email:** poorviguptacom@gmail.com<br>
-**💼 LinkedIn:** www.linkedin.com/in/poorvi-gupta-a817032a0
-## 
-Feel free to explore my repositories and reach out for collaboration or any questions!
+### **Domains of Interest:**  
+- **Mobile App Development** (Flutter/Dart) 📱  
+- **AI/ML & Data Science** 🤖  
+- **Cybersecurity & Ethical Hacking** 🔐  
+- **UI/UX Design** 🎨  
+
+---
+
+## 📚 Projects  
+
+### **📌 MargNiti - Career Guidance & Skill Development Platform 🚀**  
+MargNiti is a **career guidance** and **skill development** platform designed to help users explore and master skills in high-demand domains like **Coding** 💻 and **Data Science** 📊.  
+The platform provides **structured roadmaps**, **hands-on learning resources**, and **progress tracking** to empower users to make informed career decisions.  
+
+🔗 **GitHub Repo:** [MargNiti](https://github.com/palaksharma1432/MargNiti)  
+🔗 **Live Demo:** [MargNiti Website](https://palaksharma1432.github.io/MargNiti/signin.html)  
+
+---
+
+### **🛡️ Secure Data Hiding in Images Using Steganography**  
+This project implements **image-based steganography** to securely hide and retrieve secret messages within images using **Least Significant Bit (LSB) encoding**.  
+The hidden message can only be retrieved with the correct **passcode**, ensuring confidentiality and security.  
+
+**🔐 Features:**  
+✔️ **Stealthy Data Hiding** – Embed text messages inside images invisibly.  
+✔️ **Password Protection** – Decrypt only with the correct passcode.  
+✔️ **Minimal Image Distortion** – Ensures high visual fidelity.  
+✔️ **Lightweight & Fast** – Works efficiently with OpenCV.  
+✔️ **Cross-Platform Compatibility** – Runs on Windows, Linux, and macOS.  
+
+🔗 **GitHub Repo:** [Steganography Project](https://github.com/Poorvigup/Steganography)  
+
+---
+
+### **📝 To-Do Application**  
+📝 A sleek and intuitive **To-Do App built with Flutter**, demonstrating my skills in mobile app development. It features a simple, user-friendly interface designed to help users stay organized and productive.  
+🔗 **GitHub Repo:** [To-Do App](https://github.com/Poorvigup/To-Do_App)  
+
+---
+
+### **🛒 E-Commerce Application**  
+📱 A **mobile e-commerce UI template** featuring a product catalog, detailed product views, cart functionality, and authentication screens (Sign In/Sign Up). Though it lacks backend integration, it's a fully functional UI design for shopping apps.  
+🔗 **GitHub Repo:** [E-Commerce Application](https://github.com/Poorvigup/E-Commerce_Application)  
+
+---
+
+### **❌⭕ Tic-Tac-Toe Game**  
+🎮 A classic **Tic-Tac-Toe game** with a clean UI, smooth animations, and engaging game logic. Players take turns marking spaces in a 3x3 grid, aiming to align three marks in a row.  
+🔗 **GitHub Repo:** [Tic-Tac-Toe Game](https://github.com/Poorvigup/tiktak_game)  
+
+---
+
+### **🏏 IPL 2018 Player Selection and Analysis**  
+📊 As a **data analyst**, I worked on selecting the best-performing players for the **IPL 2018 Season**, using data-driven insights to form a winning team.  
+🔗 **GitHub Repo:** [IPL Team Selection](https://github.com/Poorvigup/IPL_team)  
+
+---
+
+### **🌡️ Temperature Analysis (Jaipur)**  
+📈 Analyzing **temperature variations in Jaipur** from November to February using NumPy and Pandas for data manipulation and visualization.  
+🔗 **GitHub Repo:** [Temperature Analysis](https://github.com/Poorvigup/temperature-sheet)  
+
+---
+
+## 🚀 Hackathons & Achievements  
+- 🏆 **Team SheCode Member** – Participated in multiple **national-level hackathons** and tech challenges.  
+- 🔹 Competed in **Parul Hack Verse, TRAIN-IT Hackathon, EY Techathon, and IIM Lucknow Business Challenges**.  
+- 🔹 **Worked on real-world projects**, gaining hands-on experience in app development, data science, and cybersecurity.  
+- 🔹 Passionate about **open-source contributions and continuous learning**.  
+
+---
+
+## 🌐 Connect with Me  
+📧 **Email:** [poorviguptacom@gmail.com](mailto:poorviguptacom@gmail.com)  
+💼 **LinkedIn:** [Poorvi Gupta](https://www.linkedin.com/in/poorvi-gupta-a817032a0)  
+🐙 **GitHub:** [Poorvi Gupta](https://github.com/Poorvigup)  
+
+🔗 **Follow my journey as I continue exploring, learning, and building!** 🚀  
+
+---
+
+## 🏷️ Tags  
+`#PoorviGupta` `#WomenInTech` `#CSE` `#GWEC_Ajmer` `#Flutter` `#Cybersecurity` `#AI/ML` `#MobileDevelopment` `#SheCode` `#OpenSource` `#DataScience` `#ProblemSolving` `#Hackathons`   
